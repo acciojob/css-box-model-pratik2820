@@ -6,4 +6,5 @@ p{
 	padding:50px;
 	background-color:lightblue;
 	margin:20px;
+	box-sizing:box-model;
 }
